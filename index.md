@@ -11,7 +11,7 @@ E-mail:   norberto.baltezar@gmail.com
 LinkedIn: @norberto-baltezar
 ```
 
-### AREAS OF EXPERIENCE
+### EXPERIENCE AREAS
 ```markdown
 I have experience in testing, analysis, design and development of simple and complex interactives,
 ERP systems, games and various types of control systems. I have worked as a project manager at
@@ -27,7 +27,7 @@ XML • WCF • C • C++ • Xcode • HTML • Ajax • CSS • Web Services �
 PHP • Objective C • Windows Systems • OSX • Unix • Apache • IIS • Crystal Reports • GitHub
 ```
 
-### OTHER KNOWLEDGE
+### OTHER KNOWLEDGES
 ```markdown
 Arduinos Programming • Web Administration • Electronics • Communications • Acoustics • Social Engineering
 Computer Support • Professional Audio Control • Wireshark • Packet Tracer
