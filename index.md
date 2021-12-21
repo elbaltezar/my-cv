@@ -1,6 +1,6 @@
 # NORBERTO BALTÉZAR 
 
-## Software Developer with extensive experience in software design and development.
+## Engeener Software Developer with extensive experience in software design and development.
 
 ### CONTACT INFORMATION
 ```markdown
@@ -43,6 +43,13 @@ Computer Support • Professional Audio Control • Wireshark • Packet Tracer
 ```markdown
 • NATIONAL POLYTECHNIC INSTITUTE
   Engineer In Communications And Electronic (Computing Specialty)
+```
+
+### COURSES AND CERTIFICATIONS
+```markdown
+• Certified Sugar Administration Specialist
+
+• Flutter Development
 ```
 
 ### PROFESSIONAL BACKGROUND
