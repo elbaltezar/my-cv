@@ -37,7 +37,7 @@ Computer Support • Professional Audio Control • Wireshark • Packet Tracer
 ```markdown
 • Spanish: Native
 
-• English:  Intermediate conversational
+• English: Intermediate conversational
 ```
 
 ### EDUCATIONAL HISTORY
