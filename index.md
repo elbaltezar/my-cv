@@ -1,4 +1,3 @@
-# LUIS NORBERTO GUTIÉRREZ BALTÉZAR
 ## Software Developer with extensive experience in software design and development.
 
 ### CONTACT INFORMATION
