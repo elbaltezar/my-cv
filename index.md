@@ -38,47 +38,66 @@
 
 ### EDUCATIONAL HISTORY
 ```markdown
-   NATIONAL POLYTECHNIC INSTITUTE
-   Engineer In Communications And Electronic (Computing Specialty)
+   • NATIONAL POLYTECHNIC INSTITUTE
+     Engineer In Communications And Electronic (Computing Specialty)
 ```
 
 ### PROFESSIONAL BACKGROUND
 ```markdown
-
+   • CRM Consultant
+     [Tactos Consultores, Sep 2020 - Now]
+     CRM Consultant and Developer, from SugarCRM.
+    
+   • Audiovisual Producer
+     [Live Productions, Jan 2010 - Now]
+     Company director. Organization of audiovisual production for social and corporate events. Configuration and use
+     of PA systems and audio and video peripheral equipment. Experience with professional brands such as: HK, JBL,
+     Yamaha, QSC, PowerSoft, Behringer, DBX, Cerwin Vega.
+     Audio visual control and infrastructure management for streaming production.
+     
+   • Software Developer
+     [GARTIC Consultores, May 2019 - Oct 2021]
+     Mobile application developer software for iOS and Android platforms (using technologies such as Swift, Java,
+     Kotlin and Flutter), desktop applications and Web systems.
+     
+   • Software Developer
+     [Katunes, March 2012 - Dec 2018]
+     Software Developer and project leader, design, development, test and analysis of different types of software,
+     such as: simple and complex interactive, ERP systems, games and various types of control systems; using
+     technologies: C #, Java, SQL, XML, Action Script, HTML, jQuery, CSS, JSON, WCF, Ajax, C, C ++, IIS, Apache,
+     Arduino, Objective C. Project Leader at MIDE (Interactive Museum of Economics ) and some projects of ABM
+     (Association of Banks of Mexico).
+   
+   • Data Cabling Installation Technician
+     [National Polytechnic Institute, Jan 2011 - Nov 2011]
+     Coordinator of installations and maintenance of data lines, analog and digital telephony, computer equipment,
+     VoIP and communications. Configuration of Switches and Routers. Experience with Cisco, Avaya and Enterasys equipment.
 ```
 
-You can use the [editor on GitHub](https://github.com/elbaltezar/my-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### PROFESSIONAL ACTIVITIES AND ACHIEVEMENTS
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+   • In charge of 4 people and supervisor in the communications area, performing structured cabling tasks, installation,
+     relocation, maintenance and repair of data networks, VoIP, analog and digital telephone lines.
+   • Director of the company "Live Productions", dedicated to the organization of audiovisual production, rental and sale
+     of services for social and corporate events. Direct deal with clients for sample and sale of services.
+   • Development of various simple and complex interactive for Museums, as well as administrative systems. Development of
+     ATM for the sale of Tickets and Services at the MIDE (Interactive Museum of Economy). Development of games for mobile
+     devices (iOS, Andriod), implemented in the MIDE (Interactive Museum of Economics).
+   • Development of point of sale application for "Cafetería Gezama".
+   • Development of an application to manage parcel entry and exit at Fedex customs, central Toluca.
+   • Development of interactive and informational kiosks for the research centers of “Mead Jhonson México” and “Mead Jhonson
+     Singapore”.
+   • Development of an air conditioning monitoring system for control rooms.
+   • Development of a multi-area audio control system at MIDE (Interactive Museum of Economics).
+   • Software development for various control systems using Arduino.
+   • Desktop application development for Windows platform; to process electronic titles, establishing a connection with the
+     services of the SEP.
+   • Desktop application development for Windows platforms; for the generation of XML files required by the SEP to process
+     electronic certificates.
+   • Development of mobile application "Guía del Sauce", for iOS and Android platforms; currently active for download on the
+     App Store and Play Store.
+   • Development of mobile application "EasyAdapt", for Android platform; currently active for download in the Play Store,
+     only for optometrists specialists.
+   • Development of mobile application "Nutripuntos", for iOS and Android platforms; in approval status of App Store and
+     Play Store platforms.
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elbaltezar/my-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
