@@ -35,8 +35,9 @@ Computer Support • Professional Audio Control • Wireshark • Packet Tracer
 
 ### LANGUAGES
 ```markdown
-• Español: Native
-• Inglés: Intermediate conversational
+• Spanish: Native
+
+• English:  Intermediate conversational
 ```
 
 ### EDUCATIONAL HISTORY
