@@ -1,4 +1,51 @@
-## Welcome to GitHub Pages
+# LUIS NORBERTO GUTIÉRREZ BALTÉZAR
+## Software Developer with extensive experience in software design and development.
+
+### CONTACT INFORMATION
+```markdown
+   WA: +52 7351863695
+   E-mail: norberto.baltezar@gmail.com
+   LinkedIn: @norberto-baltezar
+```
+
+### AREAS OF EXPERIENCE
+```markdown
+   I have experience in testing, analysis, design and development of simple and complex interactives,
+   ERP systems, games and various types of control systems. I have worked as a project manager at
+   MIDE (Interactive Museum of Economics), Mead Jhonson México, Mead Jhonson Singapore, Fedex Toluca
+   and ABM (Association of Banks of Mexico). I have also worked as a Freelance software developer.
+   I have experience in direct dealings with clients and sales.
+```
+
+### TECHNICAL TOOLS
+```markdown
+   C# • Flutter • Dart • Java • Kotlin • JSON • jQuery • JavaScript • SQL • Action Script • VB • MySQL
+   XML • WCF • C • C++ • Xcode • HTML • Ajax • CSS • Web Services • SOAP • Xamarin • MVC • Appcelerator Studio
+   PHP • Objective C • Windows Systems • OSX • Unix • Apache • IIS • Crystal Reports • GitHub
+```
+
+### OTHER KNOWLEDGE
+```markdown
+   Arduinos Programming • Web Administration • Electronics • Communications • Acoustics • Social Engineering
+   Computer Support • Professional Audio Control • Wireshark • Packet Tracer
+```
+
+### LANGUAGES
+```markdown
+   • Español: Native
+   • Inglés: Intermediate conversational
+```
+
+### EDUCATIONAL HISTORY
+```markdown
+   NATIONAL POLYTECHNIC INSTITUTE
+   Engineer In Communications And Electronic (Computing Specialty)
+```
+
+### PROFESSIONAL BACKGROUND
+```markdown
+
+```
 
 You can use the [editor on GitHub](https://github.com/elbaltezar/my-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
